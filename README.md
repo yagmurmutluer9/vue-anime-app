@@ -1,4 +1,4 @@
-# vue-anime-app
+# 📌 vue-anime-app
 
 ## Project Description
 
